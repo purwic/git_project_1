@@ -1,2 +1,1 @@
-17 ноября 2023
-sdfsdf!!!
+print("Hello, python")
