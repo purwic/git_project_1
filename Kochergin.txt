@@ -1,2 +1,2 @@
-17 ноября 2023
-sdfsdf!!!
+print("My first Git program!!!")
+# 2023 (c) Me
